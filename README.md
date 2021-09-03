@@ -4,7 +4,7 @@
          width="45" />, I'm Arnav Ghate</h1>
 <h3 align="center">Nm, just obsessed with Green dots 💚</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="Arnav Ghate" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ARNAV-GHATE&label=Profile%20views&color=0e75b6&style=flat" alt="Arnav Ghate" /> </p>
 
 <p>
 <a align= "center" href="https://github.com/ARNAV-GHATE">
