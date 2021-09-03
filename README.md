@@ -8,12 +8,13 @@
 
 <p>
 <a align= "center" href="https://github.com/ARNAV-GHATE">
-  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ishikkkkaaaa&theme=cobalt&show_icons=true&count_private=true" />
+  <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=ARNAV-GHATE&show_icons=true&theme=radical"
+ />
   <img align="right" height="270px" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
 </p>
 
-<p align="left"> <a href="https://twitter.com/ArnavGhate" target="blank"><img src="https://img.shields.io/twitter/follow/ArnavGhate?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ArnavGhate" target="blank"><img src="https://img.shields.io/twitter/follow/ArnavGhate?logo=twitter&style=for-the-badge" alt="Arnav Ghate" /></a> </p>
 
 - 📫 How to reach me **arnav.ghate@gmail.com**
 <br><br>
