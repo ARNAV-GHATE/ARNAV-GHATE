@@ -49,10 +49,7 @@
   </a>
 </p>
 
----
 
-
----
 
 ### 📈 Activity Graph
 <p align="center">
