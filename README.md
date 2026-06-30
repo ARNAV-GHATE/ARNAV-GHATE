@@ -36,10 +36,6 @@
   </a>
 </p>
 
-
-
-
-
 ---
 
 <p align="center">
@@ -108,13 +104,27 @@ Built a MIPS pipeline simulator in C++ with data forwarding, hazard detection, a
 - **Memory:** Configurable cache simulator with LRU/FIFO/Random replacement policies.
 - **Validation:** Systematic trace-based testing across all edge cases.
 
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARNAV-GHATE&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARNAV-GHATE&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARNAV-GHATE&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ARNAV-GHATE&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARNAV-GHATE&theme=tokyonight" alt="Profile Details" />
+</p>
 
 ---
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARNAV-GHATE&theme=tokyonight)
-
 
 ## 📬 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arnav-ghate-184a5218b/)
 - 📧 [arnav.ghate@gmail.com](mailto:arnav.ghate@gmail.com)
-
