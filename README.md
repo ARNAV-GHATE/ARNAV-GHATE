@@ -51,7 +51,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-ghate-184a5218b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnav.ghate@gmail.com)
 
-### Embedded Systems & AI/ML Engineer | MS in Electrical & Computer Engineering @ Lamar University
+### Embedded Systems & AI/ML Engineer | MS in Electrical & Computer Engineering 
 
 I am a graduate student with hands-on experience in **AI/ML pipelines**, **embedded systems**, and **signal processing**. Previously worked as a **Product Engineer** at Loyalty Juggernaut Inc. and a **Senior Analyst** at Ernst & Young, building production-grade software and data pipelines.
 
