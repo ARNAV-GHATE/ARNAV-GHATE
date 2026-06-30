@@ -18,20 +18,7 @@
 - 🚀 Exploring research in **distributed systems** and **p2p incentive mechanisms**  
 - 📫 Reach me at **arnav.ghate@gmail.com**
 
----
 
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARNAV-GHATE&show_icons=true&theme=radical&count_private=true" alt="Arnav Ghate's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ARNAV-GHATE&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARNAV-GHATE&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -51,10 +38,7 @@
 
 
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARNAV-GHATE&theme=react-dark" alt="Activity Graph"/>
-</p>
+
 
 ---
 
