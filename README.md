@@ -108,6 +108,7 @@ Built a MIPS pipeline simulator in C++ with data forwarding, hazard detection, a
 - **Memory:** Configurable cache simulator with LRU/FIFO/Random replacement policies.
 - **Validation:** Systematic trace-based testing across all edge cases.
 
+![Metrics](https://metrics.lecoq.io/ARNAV-GHATE?template=classic&base=activity%2Crepositories&achievements=1&habits=1&habits.charts=true)
 ---
 
 
