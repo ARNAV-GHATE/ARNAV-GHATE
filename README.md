@@ -70,10 +70,10 @@ Built a MIPS pipeline simulator in C++ with data forwarding, hazard detection, a
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARNAV-GHATE&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARNAV-GHATE&theme=tokyonight&utcOffset=-8" alt="Productive Time" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARNAV-GHATE&theme=tokyonight" alt="Repos Per Language" />
