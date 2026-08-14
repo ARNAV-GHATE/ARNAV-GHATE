@@ -20,7 +20,7 @@ Currently deep-diving into **LLMs**, **agentic workflows**, and **multi-modal AI
 | **ML Frameworks**       | PyTorch, Hugging Face Transformers, LoRA/QLoRA, Quantization, vLLM                      |
 | **Core Languages**      | Python, C, C++, SystemVerilog, SQL, Swift                                                |
 | **Cloud & MLOps**       | AWS (EC2, S3, SageMaker), GCP / Vertex AI, Docker, Git, Linux                           |
-| **Embedded & Hardware** | SystemVerilog DSP, Cadence Virtuoso, SPICE, CMOS/VLSI, Cache & CPU Simulation           |
+| **Embedded & Hardware** | SystemVerilog ,DSP, Cadence Virtuoso, SPICE, CMOS/VLSI, Cache & CPU Simulation           |
 
 ---
 
